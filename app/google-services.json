@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "811359204304",
+    "firebase_url": "https://drass-a8781.firebaseio.com",
+    "project_id": "drass-a8781",
+    "storage_bucket": "drass-a8781.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811359204304:android:ab803beefcca862e",
+        "android_client_info": {
+          "package_name": "com.mcfremarjentechnologies.updated.drass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811359204304-mgppeuruch30vdvu81jikisq136ped3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mcfremarjentechnologies.updated.drass",
+            "certificate_hash": "6586362f2c6c45fc49647f2d1b0caf3b67757f0e"
+          }
+        },
+        {
+          "client_id": "811359204304-irjo4r20anaqranats7pn6cp45fs37jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaLq6eIREYG198Xxjq_VTNin4RndJFA-g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811359204304-irjo4r20anaqranats7pn6cp45fs37jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
